@@ -1,0 +1,16 @@
+{
+    "id": "paymoapp",
+    "name": "Paymo",
+    "version": "1.0.0",
+    "description": "Franz recipe for Paymo.",
+    "main": "index.js",
+    "author": {
+        "name": "Michael Snoeren",
+        "url": "https://snoerendevelopment.nl"
+    },
+    "license": "MIT",
+    "repository": "https://github.com/snoeren-development/franz-recipe-paymo",
+    "config": {
+        "serviceURL": "https://app.paymoapp.com/"
+    }
+}
